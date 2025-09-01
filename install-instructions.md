@@ -88,7 +88,7 @@ Minecraft のパフォーマンスを向上させるため、メモリ使用量�
 
 ### 5.1 MOD パックのダウンロード
 
-1. **[マイクラ部 MOD パック](aa)** をダウンロード
+1. **[マイクラ部 MOD パック](https://drive.google.com/file/d/1q52W5Yv7-pwZ4-Tio0xRfmvHjqbrutB2/view?usp=sharing)** をダウンロード
 2. ダウンロードした ZIP ファイルを保存場所を覚えておく
 
 ### 5.2 MOD パックのインポート
